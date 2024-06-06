@@ -9,9 +9,8 @@ This repository contains an implementation of the Profile Packing algorithm base
 - [Algorithm Description](#algorithm-description)
 - [Usage](#usage)
 - [Example](#example)
-- [Installation](#installation)
 - [Authors and Acknowledgments](#authors-and-acknowledgments)
-- [License](#license)
+
 
 ## Overview
 
@@ -70,25 +69,6 @@ packed_bins = profile_packing(w, f, m, k)
 print("Packed Bins:", packed_bins)
 ```
 
-## Installation
-
-1. Clone the repository:
-
-    ```sh
-    git clone https://github.com/yourusername/profile-packing.git
-    ```
-
-2. Navigate to the repository directory:
-
-    ```sh
-    cd profile-packing
-    ```
-
-3. Run the Python script:
-
-    ```sh
-    python profile_packing.py
-    ```
 
 ## Authors and Acknowledgments
 
