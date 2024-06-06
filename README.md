@@ -96,11 +96,3 @@ print("Packed Bins:", packed_bins)
 ## Authors and Acknowledgments
 
 This code was implemented based on the article "Online Bin Packing with Predictions" by Spyros Angelopoulos, Shahin Kamali, and Kimia Shadkami. The algorithm efficiently packs items into bins using predicted item frequencies to minimize the number of bins used.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the content, especially the example usage section, to better fit your needs and any additional features you might have added to the code.
