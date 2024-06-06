@@ -1,6 +1,3 @@
-Sure! Here's a template for a comprehensive README file for your GitHub repository:
-
----
 
 # Profile Packing Algorithm
 
